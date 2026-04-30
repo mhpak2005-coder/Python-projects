@@ -1,5 +1,4 @@
 import random
-
 def hangman():
     words = ['Rockstar', 'Steam', 'Electronic Arts', 'Epic Games', 'Ubisoft', 'Gameloft']
     word = random.choice(words).lower()
