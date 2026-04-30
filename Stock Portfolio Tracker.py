@@ -1,5 +1,4 @@
 import csv
-
 def stock_tracker():
     market_prices = {
         "AAPL": 180.00,
